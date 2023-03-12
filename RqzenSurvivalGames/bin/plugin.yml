@@ -1,0 +1,9 @@
+name: RqzenSG
+author: RqzeN
+main: com.rqzen.survival.games.main
+version: 0.1
+
+commands:
+  stats:
+  ranks:
+  addtokens:
